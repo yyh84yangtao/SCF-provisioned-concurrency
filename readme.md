@@ -107,4 +107,4 @@ option = {
 **Note**:此脚本只提供了一种根据当前云函数并发请求数量推测预置并发配置的方法，不保证结果的可靠性和闲置并发费用的一致性。 请用户仅作为配置参考进行使用
 
 ---
-![流程图](./assets/Analytics-concurrency-process.png)
+![流程图](./assets/Analytics-concurrency-Process.png)
